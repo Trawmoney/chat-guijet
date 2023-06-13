@@ -1,10 +1,3 @@
-from IPython.display import Audio
-import openai
-import requests
-import json
-import os
-
-
 # Set up OpenAI API credentials
 openai.api_key = "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"
 
